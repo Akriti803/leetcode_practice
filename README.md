@@ -11,12 +11,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akriti803/leetcode_practice/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/Akriti803/leetcode_practice/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Akriti803/leetcode_practice/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Akriti803/leetcode_practice/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Akriti803/leetcode_practice/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Akriti803/leetcode_practice/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Akriti803/leetcode_practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
