@@ -5,10 +5,7 @@ public:
         for(int i=0;i<nums.size();i++){
             current_sum+=nums[i];
             max_sum=max(current_sum,max_sum);
-            if(nums.size()==1){
-                return nums[i];
-            }
-            if(current_sum<0 && nums.size()>1){
+            if(current_sum<0 ){
                 current_sum=0;
             }
         }
