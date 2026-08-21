@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Akriti803/leetcode_practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akriti803/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Akriti803/leetcode_practice/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akriti803/leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Akriti803/leetcode_practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akriti803/leetcode_practice/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akriti803/leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Akriti803/leetcode_practice/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Akriti803/leetcode_practice/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akriti803/leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0876-middle-of-the-linked-list](https://github.com/Akriti803/leetcode_practice/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Akriti803/leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akriti803/leetcode_practice/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akriti803/leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
