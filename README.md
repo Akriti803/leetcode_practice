@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Akriti803/leetcode_practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Akriti803/leetcode_practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akriti803/leetcode_practice/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/Akriti803/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Akriti803/leetcode_practice/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akriti803/leetcode_practice/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Akriti803/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Akriti803/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Akriti803/leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Akriti803/leetcode_practice/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Akriti803/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Akriti803/leetcode_practice/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/Akriti803/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
