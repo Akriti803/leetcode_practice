@@ -138,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Akriti803/leetcode_practice/tree/master/0225-implement-stack-using-queues) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Akriti803/leetcode_practice/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
