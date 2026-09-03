@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void subset(vector<int> nums,vector<vector<int>> &ans,int i,vector<int>&current ){
+    void subset(vector<int> &nums,vector<vector<int>> &ans,int i,vector<int>&current ){
         if(i==nums.size()){
             ans.push_back(current);
             return;
