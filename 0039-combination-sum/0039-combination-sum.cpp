@@ -1,34 +1,27 @@
 class Solution {
 public:
-
-    void combinationSum(vector<int>& arr, int idx, int target,
-                        vector<int>& temp, vector<vector<int>>& ans) {
-
+    void helper(vector<int>& candidates, int target, int idx,
+                vector<int>& combination, vector<vector<int>>& ans) {
         if(target == 0) {
-            ans.push_back(temp);
+            ans.push_back(combination);
             return;
         }
-
-        if(idx == arr.size() || target < 0) {
+        if(idx == candidates.size() || target < 0) {
             return;
         }
-
-        // Include
-        if(arr[idx] <= target) {
-            temp.push_back(arr[idx]);
-
-            // Same element dobara le sakte hain
-            combinationSum(arr, idx, target - arr[idx], temp, ans);
-
-            temp.pop_back();
-        }
-        // Exclude
-        combinationSum(arr, idx + 1, target, temp, ans);
+        // include
+        combination.push_back(candidates[idx]);
+        helper(candidates, target - candidates[idx], idx,
+               combination, ans);
+        combination.pop_back();//backtracking
+        // exclude
+        helper(candidates, target, idx + 1,
+               combination, ans);
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>> ans;
-        vector<int> temp;
-        combinationSum(candidates, 0, target, temp, ans);
+        vector<int> combination;
+        helper(candidates, target, 0, combination, ans);
         return ans;
     }
 };
