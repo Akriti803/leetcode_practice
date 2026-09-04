@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Akriti803/leetcode_practice/tree/master/0053-maximum-subarray) |
+| [0131-palindrome-partitioning](https://github.com/Akriti803/leetcode_practice/tree/master/0131-palindrome-partitioning) |
 ## Sliding Window
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Akriti803/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Akriti803/leetcode_practice/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Akriti803/leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/Akriti803/leetcode_practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akriti803/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Akriti803/leetcode_practice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Akriti803/leetcode_practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Akriti803/leetcode_practice/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Akriti803/leetcode_practice/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
