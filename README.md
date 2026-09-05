@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Akriti803/leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/Akriti803/leetcode_practice/tree/master/0131-palindrome-partitioning) |
+| [1137-n-th-tribonacci-number](https://github.com/Akriti803/leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Akriti803/leetcode_practice/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/Akriti803/leetcode_practice/tree/master/0258-add-digits) |
+| [1137-n-th-tribonacci-number](https://github.com/Akriti803/leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Akriti803/leetcode_practice/tree/master/0258-add-digits) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Akriti803/leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
