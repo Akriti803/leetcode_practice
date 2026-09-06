@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Akriti803/leetcode_practice/tree/master/0622-design-circular-queue) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akriti803/leetcode_practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akriti803/leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Akriti803/leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Akriti803/leetcode_practice/tree/master/0412-fizz-buzz) |
 | [1137-n-th-tribonacci-number](https://github.com/Akriti803/leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akriti803/leetcode_practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Akriti803/leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
