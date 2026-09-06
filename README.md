@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Akriti803/leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/Akriti803/leetcode_practice/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/Akriti803/leetcode_practice/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/Akriti803/leetcode_practice/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akriti803/leetcode_practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akriti803/leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Akriti803/leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Akriti803/leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Akriti803/leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/Akriti803/leetcode_practice/tree/master/0131-palindrome-partitioning) |
+| [0877-stone-game](https://github.com/Akriti803/leetcode_practice/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Akriti803/leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
 ## Sliding Window
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Akriti803/leetcode_practice/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Akriti803/leetcode_practice/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Akriti803/leetcode_practice/tree/master/0412-fizz-buzz) |
+| [0877-stone-game](https://github.com/Akriti803/leetcode_practice/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Akriti803/leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akriti803/leetcode_practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Akriti803/leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -231,4 +234,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Akriti803/leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Akriti803/leetcode_practice/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Akriti803/leetcode_practice/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Akriti803/leetcode_practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
