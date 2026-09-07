@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Akriti803/leetcode_practice/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Akriti803/leetcode_practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Akriti803/leetcode_practice/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Akriti803/leetcode_practice/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Akriti803/leetcode_practice/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Akriti803/leetcode_practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Akriti803/leetcode_practice/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Akriti803/leetcode_practice/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Akriti803/leetcode_practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Akriti803/leetcode_practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Akriti803/leetcode_practice/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Akriti803/leetcode_practice/tree/master/0412-fizz-buzz) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Akriti803/leetcode_practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Akriti803/leetcode_practice/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Akriti803/leetcode_practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Akriti803/leetcode_practice/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akriti803/leetcode_practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Algorithm X
