@@ -1,15 +1,12 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        map<int,int>m;
-        for(int i=0;i<nums.size();i++){
-            m[nums[i]]++;
+        int ones=0,twos=0;
+        int n=nums.size();
+        for(int i=0;i<=n-1;i++){
+            ones=(ones^nums[i]) & ~twos;
+            twos=(twos^nums[i]) & ~ones;
         }
-        for(auto it:m){
-            if(it.second==1){
-                return it.first;
-            }
-        }
-        return -1;
+        return ones;
     }
 };
