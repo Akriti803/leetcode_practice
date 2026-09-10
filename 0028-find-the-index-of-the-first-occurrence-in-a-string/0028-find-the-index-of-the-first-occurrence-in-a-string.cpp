@@ -4,7 +4,7 @@ public:
         if(needle.size() > haystack.size()) {
             return -1;
         }
-        for(int i = 0; i <= haystack.size() - needle.size(); i++) {
+        for(int i = 0; i <= haystack.size() - needle.size()+1; i++) {
             int j = 0;
             while(j < needle.size() && haystack[i + j] == needle[j]) {
                 j++;
