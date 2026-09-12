@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Akriti803/leetcode_practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Akriti803/leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Akriti803/leetcode_practice/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Akriti803/leetcode_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/Akriti803/leetcode_practice/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/Akriti803/leetcode_practice/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Akriti803/leetcode_practice/tree/master/0877-stone-game) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Akriti803/leetcode_practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Akriti803/leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akriti803/leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Akriti803/leetcode_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Akriti803/leetcode_practice/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akriti803/leetcode_practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
