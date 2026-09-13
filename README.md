@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Akriti803/leetcode_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/Akriti803/leetcode_practice/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/Akriti803/leetcode_practice/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Akriti803/leetcode_practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Akriti803/leetcode_practice/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akriti803/leetcode_practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Akriti803/leetcode_practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akriti803/leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akriti803/leetcode_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Akriti803/leetcode_practice/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Akriti803/leetcode_practice/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akriti803/leetcode_practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Akriti803/leetcode_practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Dynamic Programming
