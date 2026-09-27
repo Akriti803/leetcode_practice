@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Akriti803/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Akriti803/leetcode_practice/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Akriti803/leetcode_practice/tree/master/0412-fizz-buzz) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akriti803/leetcode_practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -235,11 +236,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Akriti803/leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Akriti803/leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Akriti803/leetcode_practice/tree/master/0901-online-stock-span) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akriti803/leetcode_practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1472-design-browser-history](https://github.com/Akriti803/leetcode_practice/tree/master/1472-design-browser-history) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Akriti803/leetcode_practice/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akriti803/leetcode_practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Design
 |  |
 | ------- |
