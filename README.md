@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Akriti803/leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akriti803/leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Akriti803/leetcode_practice/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Akriti803/leetcode_practice/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/Akriti803/leetcode_practice/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Akriti803/leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Akriti803/leetcode_practice/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Akriti803/leetcode_practice/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Akriti803/leetcode_practice/tree/master/0412-fizz-buzz) |
+| [0443-string-compression](https://github.com/Akriti803/leetcode_practice/tree/master/0443-string-compression) |
 | [1021-remove-outermost-parentheses](https://github.com/Akriti803/leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akriti803/leetcode_practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akriti803/leetcode_practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
