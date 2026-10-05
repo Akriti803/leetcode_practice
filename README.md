@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Akriti803/leetcode_practice/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Akriti803/leetcode_practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Akriti803/leetcode_practice/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Akriti803/leetcode_practice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Akriti803/leetcode_practice/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Akriti803/leetcode_practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Akriti803/leetcode_practice/tree/master/0053-maximum-subarray) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akriti803/leetcode_practice/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Akriti803/leetcode_practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Akriti803/leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/Akriti803/leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Akriti803/leetcode_practice/tree/master/0392-is-subsequence) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Akriti803/leetcode_practice/tree/master/0045-jump-game-ii) |
 | [0402-remove-k-digits](https://github.com/Akriti803/leetcode_practice/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Akriti803/leetcode_practice/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Akriti803/leetcode_practice/tree/master/0678-valid-parenthesis-string) |
