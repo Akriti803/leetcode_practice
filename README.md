@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Akriti803/leetcode_practice/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Akriti803/leetcode_practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [2104-sum-of-subarray-ranges](https://github.com/Akriti803/leetcode_practice/tree/master/2104-sum-of-subarray-ranges) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akriti803/leetcode_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Akriti803/leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Akriti803/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Akriti803/leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Akriti803/leetcode_practice/tree/master/0904-fruit-into-baskets) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akriti803/leetcode_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Linked List
 |  |
 | ------- |
@@ -433,4 +435,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Akriti803/leetcode_practice/tree/master/1472-design-browser-history) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akriti803/leetcode_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akriti803/leetcode_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
