@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/Akriti803/leetcode_practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akriti803/leetcode_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Akriti803/leetcode_practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Akriti803/leetcode_practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Akriti803/leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Akriti803/leetcode_practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Akriti803/leetcode_practice/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akriti803/leetcode_practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Akriti803/leetcode_practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Akriti803/leetcode_practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Algorithm X
 |  |
 | ------- |
