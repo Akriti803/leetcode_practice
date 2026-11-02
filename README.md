@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Akriti803/leetcode_practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Akriti803/leetcode_practice/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Akriti803/leetcode_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akriti803/leetcode_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Akriti803/leetcode_practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Akriti803/leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Akriti803/leetcode_practice/tree/master/0503-next-greater-element-ii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akriti803/leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akriti803/leetcode_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Akriti803/leetcode_practice/tree/master/0435-non-overlapping-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akriti803/leetcode_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Akriti803/leetcode_practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akriti803/leetcode_practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Akriti803/leetcode_practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Akriti803/leetcode_practice/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Akriti803/leetcode_practice/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Akriti803/leetcode_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akriti803/leetcode_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Akriti803/leetcode_practice/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Akriti803/leetcode_practice/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Akriti803/leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
