@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Akriti803/leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akriti803/leetcode_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/Akriti803/leetcode_practice/tree/master/0622-design-circular-queue) |
+| [0682-baseball-game](https://github.com/Akriti803/leetcode_practice/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Akriti803/leetcode_practice/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Akriti803/leetcode_practice/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Akriti803/leetcode_practice/tree/master/0860-lemonade-change) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Akriti803/leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Akriti803/leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Akriti803/leetcode_practice/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/Akriti803/leetcode_practice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Akriti803/leetcode_practice/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/Akriti803/leetcode_practice/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Akriti803/leetcode_practice/tree/master/0901-online-stock-span) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Akriti803/leetcode_practice/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Akriti803/leetcode_practice/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/Akriti803/leetcode_practice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Akriti803/leetcode_practice/tree/master/0735-asteroid-collision) |
 ## Number Theory
 |  |
