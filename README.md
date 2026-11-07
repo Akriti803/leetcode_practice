@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/Akriti803/leetcode_practice/tree/master/1472-design-browser-history) |
 | [1539-kth-missing-positive-number](https://github.com/Akriti803/leetcode_practice/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Akriti803/leetcode_practice/tree/master/1552-magnetic-force-between-two-balls) |
+| [1882-process-tasks-using-servers](https://github.com/Akriti803/leetcode_practice/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akriti803/leetcode_practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Akriti803/leetcode_practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2747-count-zero-request-servers](https://github.com/Akriti803/leetcode_practice/tree/master/2747-count-zero-request-servers) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akriti803/leetcode_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1882-process-tasks-using-servers](https://github.com/Akriti803/leetcode_practice/tree/master/1882-process-tasks-using-servers) |
 ## Doubly-Linked List
 |  |
 | ------- |
