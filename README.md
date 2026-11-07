@@ -500,4 +500,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Akriti803/leetcode_practice/tree/master/0204-count-primes) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Akriti803/leetcode_practice/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Akriti803/leetcode_practice/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Akriti803/leetcode_practice/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Akriti803/leetcode_practice/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
