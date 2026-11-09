@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Akriti803/leetcode_practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Akriti803/leetcode_practice/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Akriti803/leetcode_practice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/Akriti803/leetcode_practice/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Akriti803/leetcode_practice/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akriti803/leetcode_practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Akriti803/leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Akriti803/leetcode_practice/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Akriti803/leetcode_practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Akriti803/leetcode_practice/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/Akriti803/leetcode_practice/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Akriti803/leetcode_practice/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Akriti803/leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akriti803/leetcode_practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Akriti803/leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Akriti803/leetcode_practice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Akriti803/leetcode_practice/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Akriti803/leetcode_practice/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Akriti803/leetcode_practice/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Akriti803/leetcode_practice/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Akriti803/leetcode_practice/tree/master/0907-sum-of-subarray-minimums) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Akriti803/leetcode_practice/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Akriti803/leetcode_practice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Akriti803/leetcode_practice/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Akriti803/leetcode_practice/tree/master/0844-backspace-string-compare) |
 ## Number Theory
 |  |
 | ------- |
