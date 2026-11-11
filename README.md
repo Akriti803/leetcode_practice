@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akriti803/leetcode_practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1952-three-divisors](https://github.com/Akriti803/leetcode_practice/tree/master/1952-three-divisors) |
 | [2409-count-days-spent-together](https://github.com/Akriti803/leetcode_practice/tree/master/2409-count-days-spent-together) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Akriti803/leetcode_practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Akriti803/leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Range Minimum/Maximum Query
 |  |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Akriti803/leetcode_practice/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Akriti803/leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Akriti803/leetcode_practice/tree/master/0860-lemonade-change) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Akriti803/leetcode_practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Matrix
 |  |
 | ------- |
