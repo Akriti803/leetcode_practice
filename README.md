@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/Akriti803/leetcode_practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2747-count-zero-request-servers](https://github.com/Akriti803/leetcode_practice/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akriti803/leetcode_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Akriti803/leetcode_practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Akriti803/leetcode_practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Akriti803/leetcode_practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Akriti803/leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
