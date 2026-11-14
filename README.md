@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/Akriti803/leetcode_practice/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akriti803/leetcode_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Akriti803/leetcode_practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Akriti803/leetcode_practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Akriti803/leetcode_practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Akriti803/leetcode_practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Akriti803/leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -253,12 +254,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Akriti803/leetcode_practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akriti803/leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2747-count-zero-request-servers](https://github.com/Akriti803/leetcode_practice/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Akriti803/leetcode_practice/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Akriti803/leetcode_practice/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akriti803/leetcode_practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akriti803/leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Akriti803/leetcode_practice/tree/master/3364-minimum-positive-sum-subarray) |
 ## String
 |  |
 | ------- |
