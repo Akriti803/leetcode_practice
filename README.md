@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akriti803/leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1472-design-browser-history](https://github.com/Akriti803/leetcode_practice/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Akriti803/leetcode_practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Akriti803/leetcode_practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Akriti803/leetcode_practice/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Akriti803/leetcode_practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1882-process-tasks-using-servers](https://github.com/Akriti803/leetcode_practice/tree/master/1882-process-tasks-using-servers) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Akriti803/leetcode_practice/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Akriti803/leetcode_practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1137-n-th-tribonacci-number](https://github.com/Akriti803/leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Akriti803/leetcode_practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Akriti803/leetcode_practice/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akriti803/leetcode_practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akriti803/leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Akriti803/leetcode_practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Akriti803/leetcode_practice/tree/master/3364-minimum-positive-sum-subarray) |
 ## String
 |  |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Akriti803/leetcode_practice/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Akriti803/leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akriti803/leetcode_practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Akriti803/leetcode_practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1952-three-divisors](https://github.com/Akriti803/leetcode_practice/tree/master/1952-three-divisors) |
 | [2409-count-days-spent-together](https://github.com/Akriti803/leetcode_practice/tree/master/2409-count-days-spent-together) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Akriti803/leetcode_practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
