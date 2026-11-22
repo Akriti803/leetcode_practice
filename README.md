@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Akriti803/leetcode_practice/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akriti803/leetcode_practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Akriti803/leetcode_practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Akriti803/leetcode_practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Akriti803/leetcode_practice/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Akriti803/leetcode_practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Akriti803/leetcode_practice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Akriti803/leetcode_practice/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Akriti803/leetcode_practice/tree/master/0844-backspace-string-compare) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Akriti803/leetcode_practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
