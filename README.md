@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Akriti803/leetcode_practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akriti803/leetcode_practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Akriti803/leetcode_practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Akriti803/leetcode_practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akriti803/leetcode_practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akriti803/leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1472-design-browser-history](https://github.com/Akriti803/leetcode_practice/tree/master/1472-design-browser-history) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Akriti803/leetcode_practice/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akriti803/leetcode_practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Akriti803/leetcode_practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akriti803/leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Akriti803/leetcode_practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Akriti803/leetcode_practice/tree/master/3364-minimum-positive-sum-subarray) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Akriti803/leetcode_practice/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/Akriti803/leetcode_practice/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/Akriti803/leetcode_practice/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Akriti803/leetcode_practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/Akriti803/leetcode_practice/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Akriti803/leetcode_practice/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Akriti803/leetcode_practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/Akriti803/leetcode_practice/tree/master/1472-design-browser-history) |
 ## Queue
 |  |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Akriti803/leetcode_practice/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Akriti803/leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akriti803/leetcode_practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Akriti803/leetcode_practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Akriti803/leetcode_practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1952-three-divisors](https://github.com/Akriti803/leetcode_practice/tree/master/1952-three-divisors) |
 | [2409-count-days-spent-together](https://github.com/Akriti803/leetcode_practice/tree/master/2409-count-days-spent-together) |
