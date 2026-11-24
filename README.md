@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akriti803/leetcode_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Akriti803/leetcode_practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Akriti803/leetcode_practice/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Akriti803/leetcode_practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Akriti803/leetcode_practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Akriti803/leetcode_practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Akriti803/leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akriti803/leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2747-count-zero-request-servers](https://github.com/Akriti803/leetcode_practice/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Akriti803/leetcode_practice/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Akriti803/leetcode_practice/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Akriti803/leetcode_practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1952-three-divisors](https://github.com/Akriti803/leetcode_practice/tree/master/1952-three-divisors) |
 | [2409-count-days-spent-together](https://github.com/Akriti803/leetcode_practice/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Akriti803/leetcode_practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Akriti803/leetcode_practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Akriti803/leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Range Minimum/Maximum Query
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Akriti803/leetcode_practice/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Akriti803/leetcode_practice/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/Akriti803/leetcode_practice/tree/master/1952-three-divisors) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Akriti803/leetcode_practice/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Memoization
 |  |
 | ------- |
@@ -464,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Akriti803/leetcode_practice/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Akriti803/leetcode_practice/tree/master/1952-three-divisors) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Akriti803/leetcode_practice/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prime Factorization
 |  |
 | ------- |
